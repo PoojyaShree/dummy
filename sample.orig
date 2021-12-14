@@ -1,0 +1,6 @@
+this is sample file
+<<<<<<< HEAD
+this is
+=======
+its an extra line
+>>>>>>> 6b86e6dd483933bac6b958b530a170b12bfc49b8
